@@ -38,7 +38,7 @@
 </div>
 </spring:form>
 <br><br><br>
-<a href="${pageContext.request.contextPath}/user/show-kit" class="checkoutItem">Show Kit</a>
+<a href="${pageContext.request.contextPath}/user/show-list" class="checkoutItem">Show List</a>
 
 <jsp:include page="footer.jsp"/>
 </body>
